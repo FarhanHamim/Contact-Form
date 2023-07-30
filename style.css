@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('image.jpeg'); /* Replace 'background-image.jpg' with your actual background image file name */
+    background-image: url('image.jpeg');
     background-size: cover;
     background-position: center;
     font-family: Arial, sans-serif;
@@ -11,7 +11,7 @@ body {
     max-width: 400px;
     margin: 100px auto;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.8); /* Adding some transparency to the background */
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 h2 {
